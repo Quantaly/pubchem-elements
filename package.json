@@ -2,13 +2,14 @@
   "name": "pubchem-elements",
   "version": "1.0.0",
   "description": "The PubChem periodic table data",
-  "type": "module",
   "author": "Kai Page <kai@quantaly.net>",
+  "repository": "github:Quantaly/pubchem-elements",
   "license": "Unlicense",
   "keywords": [
     "elements",
     "periodic table"
   ],
+  "type": "module",
   "files": [
     "dist"
   ],
