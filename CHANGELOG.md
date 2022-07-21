@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2022-07-16
 
 ### Added
+
 - Module built from PubChem periodic table data
 - Addressable by atomic number, symbol, or name
 - Custom, usefully narrow TypeScript declarations

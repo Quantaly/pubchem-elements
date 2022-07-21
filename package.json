@@ -16,13 +16,13 @@
   "exports": "./dist/elements.js",
   "types": "./dist/types/elements.d.ts",
   "scripts": {
-    "lint": "eslint src",
-    "format": "prettier --write src",
+    "lint": "eslint .",
+    "format": "prettier --write .",
     "prepare": "make"
   },
   "devDependencies": {
     "esbuild": "^0.14.49",
     "eslint": "^8.19.0",
-    "prettier": "^2.7.1"
+    "prettier": "2.7.1"
   }
 }
